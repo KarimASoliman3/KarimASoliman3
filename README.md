@@ -1,102 +1,84 @@
-# Karim Ahmed — Web Developer
+#        Karim Ahmed | Front-End Developer
 
-<div align="center" width="50">
+<div align="center" width="50%">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
 <details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+<p><strong> <summary> 🎧 Busy coding & vibing to: </summary> </strong></p>
 
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karim-ahmed\&style=flat\&color=orange\&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/KarimAhmed-grey?style=flat\&logo=telegram)](https://t.me/yourtelegram)
 
 </div>
 
 ---
 
-## 👋 نبذة عني
+## 👋 About Me
 
-أنا **Karim Ahmed** مبرمج ويب شغوف بإنشاء تطبيقات ويب احترافية. متخصص في **Front-End / Back-End** باستخدام تقنيات حديثة.
+I’m **Karim Ahmed**, a passionate **Front-End Developer** specialized in creating modern, responsive, and user-friendly web applications.
 
-* 🔭 أعمل حاليًا على: **مشاريع ويب شخصية وتطبيقات SaaS**
-* 🌱 أتعلّم: **Next.js و DevOps**
-* 💬 اسألني عن: **React, Node.js, PHP, Laravel**
-* 📫 تواصل معي: **[youremail@example.com](mailto:youremail@example.com)** | [LinkedIn](#) | [Portfolio](#)
-* ⚡ Fun fact: أحب استكشاف GNU/Linux
+* 🔭 Currently working on: **Front-end projects & portfolio apps**
+* 🌱 Learning: **Next.js and advanced UI/UX design**
+* 💬 Ask me about: **React, TailwindCSS, Bootstrap, JavaScript**
+* 📫 Reach me at: **[karimsolimanfcb10@gmail.com](mailto:karimsolimanfcb10@gmail.com)** | [LinkedIn](www.linkedin.com/in/karim-soliman-a45a1a1b4
+
+) | [Portfolio](#)
+* ⚡ Fun fact: I love building clean UI with smooth animations
 
 ---
 
-## 🧰 الأدوات والتقنيات
+## 🧰 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node-dot-js\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
 ```javascript
 class AboutMe {
   const myTools = {
-    FrontEnd: ["React", "Next.js", "TailwindCSS"],
-    BackEnd: ["Node.js", "Laravel", "PHP"],
-    Database: ["MySQL", "MongoDB"],
-    DevOps: ["Docker", "Vercel", "Netlify"],
-    Other: ["Git", "Figma"]
+    FrontEnd: ["React", "Next.js", "TailwindCSS", "Bootstrap"],
+    Languages: ["HTML", "CSS", "JavaScript"],
+    Tools: ["Git", "Figma"]
   };
 }
 ```
 
 ---
 
-## 🚀 المشاريع المميزة
+## 🚀 Featured Projects
 
-### 1) [مشروع Portfolio](#)
+### 1) [Portfolio Website](#)
 
-موقعي الشخصي لاستعراض أعمالي وخدماتي.
+My personal website to showcase my front-end skills and projects.
 
-* التقنيات: Next.js, TailwindCSS
+* Tech: React, TailwindCSS
 * [Live Demo](#)
 
-### 2) [مشروع متجر إلكتروني](#)
+### 2) [Landing Page Templates](#)
 
-متجر متكامل مع نظام إدارة المنتجات والمستخدمين.
+A collection of modern landing pages built with Bootstrap.
 
-* التقنيات: Laravel, MySQL, Vue.js
+* Tech: Bootstrap, CSS3, JavaScript
 * [Live Demo](#)
 
-### 3) [API SaaS Tool](#)
+### 3) [UI Component Library](#)
 
-خدمة SaaS توفر API لمطوري الويب.
+Reusable front-end components for faster prototyping.
 
-* التقنيات: Node.js, Express, MongoDB
+* Tech: React, TailwindCSS
 * [Live Demo](#)
 
 ---
 
-## 📊 إحصائيات GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</div>
-
----
-
-## 📬 روابط سريعة
-
-* Portfolio: [رابط](#)
-* LinkedIn: [رابط](#)
-* Telegram: [رابط](#)
-
----
+<img src
