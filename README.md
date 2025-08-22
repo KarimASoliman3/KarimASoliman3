@@ -53,30 +53,50 @@ class AboutMe {
 
 ---
 
-## 🚀 Featured Projects
+## ​ Featured Projects
 
-### 1) [Portfolio Website](#)
+### 1) [Portfoilio](https://portfoilio-lyart.vercel.app)  
+Personal portfolio app built with React and Vite.  
+- **Tech:** React, Vite, JavaScript, CSS, HTML  
+- ⭐ Stars: 1  
+- [GitHub Repo](https://github.com/KarimASoliman3/Portfoilio)
 
-My personal website to showcase my front-end skills and projects.
+### 2) [Weather-API](https://karimasoliman3.github.io/Weather-API/)  
+A simple weather web app using HTML, CSS, JS.  
+- **Tech:** HTML, CSS, JavaScript  
+- [Live Demo](https://karimasoliman3.github.io/Weather-API/)  
+- [GitHub Repo](https://github.com/KarimASoliman3/Weather-API)
 
-* Tech: React, TailwindCSS
-* [Live Demo](#)
+### 3) [Smart-Login-System](https://karimasoliman3.github.io/Smart-Login-System/)  
+Login system with signup, login/logout using localStorage.  
+- **Tech:** HTML, CSS, Bootstrap, JavaScript  
+- [Live Demo](https://karimasoliman3.github.io/Smart-Login-System/)  
+- [GitHub Repo](https://github.com/KarimASoliman3/Smart-Login-System)
 
-### 2) [Landing Page Templates](#)
+### 4) [CRUDS](https://karimasoliman3.github.io/CRUDS/)  
+A basic CRUD app built with HTML, CSS, Bootstrap, JavaScript.  
+- **Tech:** HTML, CSS, Bootstrap, JavaScript  
+- [Live Demo](https://karimasoliman3.github.io/CRUDS/)  
+- [GitHub Repo](https://github.com/KarimASoliman3/CRUDS)
 
-A collection of modern landing pages built with Bootstrap.
+### 5) [Bookmarker](https://karimasoliman3.github.io/Bookmarker/)  
+A sleek bookmark manager built with HTML, CSS, Bootstrap, and JavaScript.  
+- **Tech:** HTML, CSS, Bootstrap, JavaScript  
+- [Live Demo](https://karimasoliman3.github.io/Bookmarker/)  
+- [GitHub Repo](https://github.com/KarimASoliman3/Bookmarker)
 
-* Tech: Bootstrap, CSS3, JavaScript
-* [Live Demo](#)
+### 6) [Devfolio-template-](https://karimasoliman3.github.io/Devfolio-template-/)  
+Responsive Devfolio template using HTML, CSS, Bootstrap.  
+- **Tech:** HTML, CSS, Bootstrap  
+- [Live Demo](https://karimasoliman3.github.io/Devfolio-template-/)  
+- [GitHub Repo](https://github.com/KarimASoliman3/Devfolio-template-)
 
-### 3) [UI Component Library](#)
+### 7) [Daniels-template-](https://daniels-template.netlify.app/)  
+A clean, responsive portfolio template built with HTML, CSS, and Bootstrap.  
+- **Tech:** HTML, CSS, Bootstrap  
+- [Live Demo](https://daniels-template.netlify.app/)  
+- [GitHub Repo](https://github.com/KarimASoliman3/Daniels-template-)
 
-Reusable front-end components for faster prototyping.
-
-* Tech: React, TailwindCSS
-* [Live Demo](#)
-
----
 
 ## 📊 GitHub Stats
 
