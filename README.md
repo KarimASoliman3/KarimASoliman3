@@ -60,6 +60,7 @@ Personal portfolio app built with React and Vite.
 - **Tech:** React, Vite, JavaScript, CSS, HTML  
 - ⭐ Stars: 1  
 - [GitHub Repo](https://github.com/KarimASoliman3/Portfoilio)
+- [Live Demo](https://portfoilio-lyart.vercel.app/)  
 
 ### 2) [Weather-API](https://karimasoliman3.github.io/Weather-API/)  
 A simple weather web app using HTML, CSS, JS.  
