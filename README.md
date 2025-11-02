@@ -69,12 +69,12 @@ A E-Learning website template using react
 - [GitHub Repo](https://github.com/KarimASoliman3/Skillpath)
 - [Live Demo](https://skillpath-k7w8-5nxaivemp-karimasoliman3s-projects.vercel.app/)  
 
-### 3) [Portfoilio](https://portfoilio-lyart.vercel.app)  
+### 3) [Portfoilio](https://karimasoliman3.vercel.app/)  
 Personal portfolio app built with React and Vite.  
 - **Tech:** React, Vite, JavaScript, CSS, HTML  
 - ⭐ Stars: 1  
-- [GitHub Repo](https://github.com/KarimASoliman3/Portfoilio)
-- [Live Demo](https://portfoilio-lyart.vercel.app/)  
+- [GitHub Repo](https://github.com/KarimASoliman3/project)
+- [Live Demo](https://karimasoliman3.vercel.app/)  
 
 ### 4) [Weather-API](https://karimasoliman3.github.io/Weather-API/)  
 A simple weather web app using HTML, CSS, JS.  
