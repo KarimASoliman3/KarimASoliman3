@@ -55,58 +55,65 @@ class AboutMe {
 
 ## ​ Featured Projects
 
-### 1) [Social-app](https://social-app-flax-beta.vercel.app)  
+### 1) [Freshify E-commerce website](https://freshify-beta.vercel.app/)  
+A fast, modern e-commerce web app with product browsing, cart management, and secure checkout — built using Next.js, TypeScript, and Tailwind CSS.
+- **Tech:** Next.js , NextAuth , Zod , TypeScript , Tailwind CSS , HTML 
+- ⭐ Stars: 0  
+- [GitHub Repo](https://github.com/KarimASoliman3/freshify)
+- [Live Demo](https://freshify-beta.vercel.app/) 
+
+### 2) [Social-app](https://social-app-flax-beta.vercel.app)  
 A simple social media web app where users can create, edit, and delete posts & comments.  
 - **Tech:** React, JavaScript, CSS, HTML,tailwind
 - ⭐ Stars: 0  
 - [GitHub Repo](https://github.com/KarimASoliman3/Social-app)
 - [Live Demo](https://social-app-flax-beta.vercel.app/)  
 
-### 2) [Skillpath-website](https://skillpath-k7w8-5nxaivemp-karimasoliman3s-projects.vercel.app/)  
+### 3) [Skillpath-website](https://skillpath-k7w8-5nxaivemp-karimasoliman3s-projects.vercel.app/)  
 A E-Learning website template using react  
 - **Tech:** React, JavaScript, CSS, HTML ,tailwind 
 - ⭐ Stars: 5  
 - [GitHub Repo](https://github.com/KarimASoliman3/Skillpath)
 - [Live Demo](https://skillpath-k7w8-5nxaivemp-karimasoliman3s-projects.vercel.app/)  
 
-### 3) [Portfoilio](https://karimasoliman3.vercel.app/)  
+### 4) [Portfoilio](https://karimasoliman3.vercel.app/)  
 Personal portfolio app built with React and Vite.  
 - **Tech:** React, Vite, JavaScript, CSS, HTML  
 - ⭐ Stars: 1  
 - [GitHub Repo](https://github.com/KarimASoliman3/project)
 - [Live Demo](https://karimasoliman3.vercel.app/)  
 
-### 4) [Weather-API](https://karimasoliman3.github.io/Weather-API/)  
+### 5) [Weather-API](https://karimasoliman3.github.io/Weather-API/)  
 A simple weather web app using HTML, CSS, JS.  
 - **Tech:** HTML, CSS, JavaScript  
 - [Live Demo](https://karimasoliman3.github.io/Weather-API/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Weather-API)
 
-### 5) [Smart-Login-System](https://karimasoliman3.github.io/Smart-Login-System/)  
+### 6) [Smart-Login-System](https://karimasoliman3.github.io/Smart-Login-System/)  
 Login system with signup, login/logout using localStorage.  
 - **Tech:** HTML, CSS, Bootstrap, JavaScript  
 - [Live Demo](https://karimasoliman3.github.io/Smart-Login-System/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Smart-Login-System)
 
-### 6) [CRUDS](https://karimasoliman3.github.io/CRUDS/)  
+### 7) [CRUDS](https://karimasoliman3.github.io/CRUDS/)  
 A basic CRUD app built with HTML, CSS, Bootstrap, JavaScript.  
 - **Tech:** HTML, CSS, Bootstrap, JavaScript  
 - [Live Demo](https://karimasoliman3.github.io/CRUDS/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/CRUDS)
 
-### 7) [Bookmarker](https://karimasoliman3.github.io/Bookmarker/)  
+### 8) [Bookmarker](https://karimasoliman3.github.io/Bookmarker/)  
 A sleek bookmark manager built with HTML, CSS, Bootstrap, and JavaScript.  
 - **Tech:** HTML, CSS, Bootstrap, JavaScript  
 - [Live Demo](https://karimasoliman3.github.io/Bookmarker/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Bookmarker)
 
-### 8) [Devfolio-template-](https://karimasoliman3.github.io/Devfolio-template-/)  
+### 9) [Devfolio-template-](https://karimasoliman3.github.io/Devfolio-template-/)  
 Responsive Devfolio template using HTML, CSS, Bootstrap.  
 - **Tech:** HTML, CSS, Bootstrap  
 - [Live Demo](https://karimasoliman3.github.io/Devfolio-template-/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Devfolio-template-)
 
-### 9) [Daniels-template-](https://daniels-template.netlify.app/)  
+### 10) [Daniels-template-](https://daniels-template.netlify.app/)  
 A clean, responsive portfolio template built with HTML, CSS, and Bootstrap.  
 - **Tech:** HTML, CSS, Bootstrap  
 - [Live Demo](https://daniels-template.netlify.app/)  
