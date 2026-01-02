@@ -103,11 +103,11 @@ Login system with signup, login/logout using localStorage.
 - [Live Demo](https://karimasoliman3.github.io/Smart-Login-System/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Smart-Login-System)
 
-### 8) [CRUDS](https://karimasoliman3.github.io/CRUDS/)  
-A basic CRUD app built with HTML, CSS, Bootstrap, JavaScript.  
-- **Tech:** HTML, CSS, Bootstrap, JavaScript  
-- [Live Demo](https://karimasoliman3.github.io/CRUDS/)  
-- [GitHub Repo](https://github.com/KarimASoliman3/CRUDS)
+### 8) [CRUDS](https://github.com/KarimASoliman3/CRUDS-app)  
+simple CRUDS using Js , TailwindCss and Html 
+- **Tech:** HTML,TailwindCss,JavaScript  
+- [Live Demo](https://cruds-1app.netlify.app/)  
+- [GitHub Repo](https://github.com/KarimASoliman3/CRUDS-app)
 
 ### 9) [Bookmarker](https://karimasoliman3.github.io/Bookmarker/)  
 A sleek bookmark manager built with HTML, CSS, Bootstrap, and JavaScript.  
