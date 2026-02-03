@@ -84,44 +84,51 @@ Designed with a clean UI and smooth navigation for a seamless ordering experienc
 - [GitHub Repo](https://github.com/KarimASoliman3/Food-delivery)
 - [Live Demo](https://yumrun-food-delivery.netlify.app/)  
 
-### 5) [Portfoilio](https://karimasoliman3.vercel.app/)  
+### 5) [☕ Binary Coffee Web App](https://binary-coffe.netlify.app)  
+A fast, modern, responsive coffee-themed web app with interactive UI components and smooth animations — built using React and Vite.
+- **Tech:** React, Vite, JavaScript (JSX), Tailwind CSS, Framer Motion, React Icons 
+- ⭐ Stars: 5  
+- [GitHub Repo](https://github.com/KarimASoliman3/Binary-Coffe)
+- [Live Demo](https://binary-coffe.netlify.app)  
+
+### 6) [Portfoilio](https://karimasoliman3.vercel.app/)  
 Personal portfolio app built with React and Vite.  
 - **Tech:** React, Vite, JavaScript, CSS, HTML  
 - ⭐ Stars: 1  
 - [GitHub Repo](https://github.com/KarimASoliman3/project)
 - [Live Demo](https://karimasoliman3.vercel.app/)  
 
-### 6) [Weather-API](https://karimasoliman3.github.io/Weather-API/)  
+### 7) [Weather-API](https://karimasoliman3.github.io/Weather-API/)  
 A simple weather web app using HTML, CSS, JS.  
 - **Tech:** HTML, CSS, JavaScript  
 - [Live Demo](https://karimasoliman3.github.io/Weather-API/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Weather-API)
 
-### 7) [Smart-Login-System](https://karimasoliman3.github.io/Smart-Login-System/)  
+### 8) [Smart-Login-System](https://karimasoliman3.github.io/Smart-Login-System/)  
 Login system with signup, login/logout using localStorage.  
 - **Tech:** HTML, CSS, Bootstrap, JavaScript  
 - [Live Demo](https://karimasoliman3.github.io/Smart-Login-System/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Smart-Login-System)
 
-### 8) [CRUDS](https://github.com/KarimASoliman3/CRUDS-app)  
+### 9) [CRUDS](https://github.com/KarimASoliman3/CRUDS-app)  
 simple CRUDS using Js , TailwindCss and Html 
 - **Tech:** HTML,TailwindCss,JavaScript  
 - [Live Demo](https://cruds-1app.netlify.app/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/CRUDS-app)
 
-### 9) [Bookmarker](https://karimasoliman3.github.io/Bookmarker/)  
+### 10) [Bookmarker](https://karimasoliman3.github.io/Bookmarker/)  
 A sleek bookmark manager built with HTML, CSS, Bootstrap, and JavaScript.  
 - **Tech:** HTML, CSS, Bootstrap, JavaScript  
 - [Live Demo](https://karimasoliman3.github.io/Bookmarker/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Bookmarker)
 
-### 10) [Devfolio-template-](https://karimasoliman3.github.io/Devfolio-template-/)  
+### 11) [Devfolio-template-](https://karimasoliman3.github.io/Devfolio-template-/)  
 Responsive Devfolio template using HTML, CSS, Bootstrap.  
 - **Tech:** HTML, CSS, Bootstrap  
 - [Live Demo](https://karimasoliman3.github.io/Devfolio-template-/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Devfolio-template-)
 
-### 11) [Daniels-template-](https://daniels-template.netlify.app/)  
+### 12) [Daniels-template-](https://daniels-template.netlify.app/)  
 A clean, responsive portfolio template built with HTML, CSS, and Bootstrap.  
 - **Tech:** HTML, CSS, Bootstrap  
 - [Live Demo](https://daniels-template.netlify.app/)  
