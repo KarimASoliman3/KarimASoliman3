@@ -21,7 +21,7 @@ I’m **Karim Ahmed**, a passionate **Front-End Developer** specialized in creat
 * 🔭 Currently working on: **Front-end projects & portfolio apps**
 * 🌱 Learning: **Next.js and advanced UI/UX design**
 * 💬 Ask me about: **React, TailwindCSS, Bootstrap, JavaScript**
-* 📫 Reach me at: **[karimsolimanfcb10@gmail.com](mailto:karimsolimanfcb10@gmail.com)** | [LinkedIn](www.linkedin.com/in/karim-soliman-a45a1a1b4
+* 📫 Reach me at: **[karimsolimanfcb10@gmail.com](mailto:karimsolimanfcb10@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/karim-soliman-dev/
 
 ) | [Portfolio](https://karimasoliman3.vercel.app/)
 * ⚡ Fun fact: I love building clean UI with smooth animations
