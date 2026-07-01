@@ -2,10 +2,6 @@
 My Portfolio  (https://karimasoliman3.vercel.app)
 <div align="center" width="50%">
 
-<details>
-<p><strong> <summary> 🎧 Busy coding & vibing to: </summary> </strong></p>
-
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karim-ahmed\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
