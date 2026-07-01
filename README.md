@@ -8,7 +8,9 @@ My Portfolio  (https://karimasoliman3.vercel.app)
 
 ## 👋 About Me
 
-I’m **Karim Ahmed**, a passionate **Front-End Developer** specialized in creating modern, responsive, and user-friendly web applications.
+I’m **Karim Ahmed**, Motivated Junior Frontend Developer skilled in React and TypeScript, with a strong focus on building responsive,
+scalable, and user-friendly applications. Experienced in Clean Architecture, Atomic Design, and Gitflow, with a passion
+for writing maintainable code and continuously learning new technologies.
 
 * 🔭 Currently working on: **Front-end projects & portfolio apps**
 * 🌱 Learning: **Next.js and advanced UI/UX design**
