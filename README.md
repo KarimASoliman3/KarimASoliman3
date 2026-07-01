@@ -1,7 +1,6 @@
 #       Karim Ahmed | Front-End Developer
 My Portfolio  (https://karimasoliman3.vercel.app)
 <div align="center" width="50%">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%"/> <br> 
 
 <details>
 <p><strong> <summary> 🎧 Busy coding & vibing to: </summary> </strong></p>
