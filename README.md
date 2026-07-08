@@ -1,4 +1,4 @@
-#       Karim Ahmed | Front-End Developer
+#       Karim Soliman | Front-End Developer
 My Portfolio  (https://karimasoliman3.vercel.app)
 <div align="center" width="50%">
   
