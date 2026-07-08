@@ -84,14 +84,14 @@ Designed with a clean UI and smooth navigation for a seamless ordering experienc
 - **Tech:** React, JavaScript, CSS, HTML ,tailwind 
 - ⭐ Stars: 5  
 - [GitHub Repo](https://github.com/KarimASoliman3/Food-delivery)
-- [Live Demo](https://yumrun-food-delivery.netlify.app/)  
+- [Live Demo](https://yumrun-puce.vercel.app/)  
 
 ### [☕ Binary Coffee Web App](https://binary-coffe.netlify.app)  
 A fast, modern, responsive coffee-themed web app with interactive UI components and smooth animations — built using React and Vite.
 - **Tech:** React, Vite, JavaScript (JSX), Tailwind CSS, Framer Motion, React Icons 
 - ⭐ Stars: 5  
 - [GitHub Repo](https://github.com/KarimASoliman3/Binary-Coffe)
-- [Live Demo](https://binary-coffe.netlify.app)  
+- [Live Demo](https://binary-coffe.vercel.app/)  
 
 ### [HealthCare-Dashboard](https://health-care-dashboard-umber.vercel.app)  
 A modern, responsive healthcare management dashboard built with React and Vite, following Clean Architecture principles for maintainability and scalability.
@@ -110,38 +110,38 @@ Personal portfolio app built with React and Vite.
 ### [Weather-API](https://karimasoliman3.github.io/Weather-API/)  
 A simple weather web app using HTML, CSS, JS.  
 - **Tech:** HTML, CSS, JavaScript  
-- [Live Demo](https://karimasoliman3.github.io/Weather-API/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Weather-API)
+- [Live Demo](https://karimasoliman3.github.io/Weather-API/)  
 
 ### [Smart-Login-System](https://karimasoliman3.github.io/Smart-Login-System/)  
 Login system with signup, login/logout using localStorage.  
 - **Tech:** HTML, CSS, Bootstrap, JavaScript  
-- [Live Demo](https://karimasoliman3.github.io/Smart-Login-System/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Smart-Login-System)
+- [Live Demo](https://karimasoliman3.github.io/Smart-Login-System/)  
 
 ### [CRUDS](https://github.com/KarimASoliman3/CRUDS-app)  
 simple CRUDS using Js , TailwindCss and Html 
 - **Tech:** HTML,TailwindCss,JavaScript  
-- [Live Demo](https://cruds-1app.netlify.app/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/CRUDS-app)
+- [Live Demo](https://cruds-app-chi.vercel.app/)  
 
 ### [Bookmarker](https://karimasoliman3.github.io/Bookmarker/)  
 A sleek bookmark manager built with HTML, CSS, Bootstrap, and JavaScript.  
 - **Tech:** HTML, CSS, Bootstrap, JavaScript  
-- [Live Demo](https://karimasoliman3.github.io/Bookmarker/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Bookmarker)
+- [Live Demo](https://karimasoliman3.github.io/Bookmarker/)  
 
 ### [Devfolio-template-](https://karimasoliman3.github.io/Devfolio-template-/)  
 Responsive Devfolio template using HTML, CSS, Bootstrap.  
 - **Tech:** HTML, CSS, Bootstrap  
-- [Live Demo](https://karimasoliman3.github.io/Devfolio-template-/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Devfolio-template-)
+- [Live Demo](https://karimasoliman3.github.io/Devfolio-template-/)  
 
 ### [Daniels-template-](https://daniels-template.netlify.app/)  
 A clean, responsive portfolio template built with HTML, CSS, and Bootstrap.  
 - **Tech:** HTML, CSS, Bootstrap  
-- [Live Demo](https://daniels-template.netlify.app/)  
 - [GitHub Repo](https://github.com/KarimASoliman3/Daniels-template-)
+- [Live Demo](https://daniels-template-xi.vercel.app/)  
 
 
 ## 📊 GitHub Stats
